@@ -1,4 +1,4 @@
-# Twine Story
+# The Mysterious Package
 An interative video game story about a mysterious package
 
 ## Overview
